@@ -1,4 +1,4 @@
-# Problem: NO SYS FILE generated *despite* errors?
+# Problem: NO SYS FILE generated *despite* __no__ errors?
 ```
 <TargetExt>.sys</TargetExt>
 <LinkCompiled>true</LinkCompiled>
