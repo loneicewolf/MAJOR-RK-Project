@@ -15,7 +15,10 @@ Also, my terminology may be wrong — I wrote this while recovering from a fever
 BUT:  
 This is the kind of project that's great for **learning**, not for malicious use.  
 Even if it doesn’t work, the ideas and debugging steps are incredibly valuable. Feel free to explore, fix, and improve it!
-> **EICAR TEST STRING-LIKE:** This is intended to be **detectable by AV** tools as a training artifact.
+> **EICAR STRING:** This is intended to be **detectable by AV** tools as a training artifact.
+
+Note, as said, this code is broken on purpose, to just, still be "working" so someone cant just compile it, the goal here was to learn, and I stopped, when I learned enough, (note, this was more modern, which is also why i didnt complete it, my goal is never to make malware, its to learn! if the goal was to re create fanny 100% - the rootkit part - this code is ENTIRELY WRONG Because its modern! fanny wont (reliably! at least)  work on windows 10 xD )
+
 
 ```
 // EICAR STRING MARKING THIS FILE AND ITS SOURCE AS UNSAFE. WILL TRIGGER AV.
@@ -95,4 +98,5 @@ DriverUnload(FLT_FILTER_UNLOAD_FLAGS Flags)
 }
 
 ```
-# Note, as said, this code is broken on purpose, to just, still be "working" so someone cant just compile it, the goal here was to learn, and I stopped, when I learned enough, (note, this was more modern, which is also why i didnt complete it, my goal is never to make malware, its to learn! if the goal was to re create fanny 100% - the rootkit part - this code is ENTIRELY WRONG Because its modern! fanny wont (reliably! at least)  work on windows 10 xD )
+
+ 
