@@ -95,3 +95,4 @@ DriverUnload(FLT_FILTER_UNLOAD_FLAGS Flags)
 }
 
 ```
+# Note, as said, this code is broken on purpose, to just, still be "working" so someone cant just compile it, the goal here was to learn, and I stopped, when I learned enough, (note, this was more modern, which is also why i didnt complete it, my goal is never to make malware, its to learn! if the goal was to re create fanny 100% - the rootkit part - this code is ENTIRELY WRONG Because its modern! fanny wont (reliably! at least)  work on windows 10 xD )
