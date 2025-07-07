@@ -11,3 +11,6 @@ MAJOR ROOTKIT PROJECT (Will be like, the *Reverse shell* repo but for ROOTKITS, 
   - Instructions (and problem solving for common issues) for SDK,WINDEV,VISUAL STUDIO(yep.)
   - etc
   - 
+
+## "Malware"
+- see WINDOWS_ROOTKIT_SECTION (branch!)
