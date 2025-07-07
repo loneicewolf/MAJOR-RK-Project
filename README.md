@@ -1,5 +1,7 @@
 # Windows Rootkit
+- note some code might be broken, i had a and i still have a fever writing this!
 
+---------
 > **NOTE:** This is ONLY for learning.  
 > It’s a re-creation of `shelldoc.dll` via reversing and AI help (reversing malware).  
 > **BIG SHOUTOUT to N.S.A.** for providing me with GHIDRA (available on their GitHub):  
